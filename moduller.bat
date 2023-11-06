@@ -1,0 +1,21 @@
+pip install datetime
+pip install requests
+pip install cfscrape
+pip install socks
+pip install pysocks
+pip install colorama
+pip install undetected_chromedriver
+pip install cloudscraper
+npm i requests
+npm i https-proxy-agent
+npm i crypto-random-string
+npm i events
+npm i fs
+npm i net
+npm i cloudscraper
+npm i request
+npm i hcaptcha-solver
+npm i randomstring
+npm i cluster
+npm i cloudflare-bypasser
+pause
